@@ -30,5 +30,9 @@ public class Class1
  * 14. git remote add origin github https                to prep for push
  * 15. git push origin main                              to push
  * 16. git clone                                         brign a repos that is hosted somewhere like github into a local
+ * 17.
+ * 18.
+ * 19.
+ * 20.
  
  */
