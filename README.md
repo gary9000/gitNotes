@@ -1,2 +1,0 @@
-# gitNotes
-gitCommands
